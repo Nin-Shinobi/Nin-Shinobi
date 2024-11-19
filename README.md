@@ -1,7 +1,6 @@
-<h1 align="center">Bonjour 👋, Je suis Wilson Hdn</h1>
-<h3 align="center">Un développeur frontend et backend passionné du Bénin</h3>
+<h1 align="center">Bonjour 👋, Moi c'est Wilson Hdn</h1>
+<h3 align="center">Un développeur frontend et backend passionné.</h3>
 
-<p align="left"> <img src ="https://komarev.com/ghpvc/?username=hdnwilson&label=Profile%20views&color=0e75b6&style=flat" alt="hdnwilson" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https : //github-profile-trophy.vercel.app/?username=hdnwilson" alt="hdnwilson" /></a> </p>
 
