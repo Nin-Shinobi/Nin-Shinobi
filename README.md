@@ -2,13 +2,11 @@
 <h3 align="center">Un développeur frontend et backend passionné.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https : //github-profile-trophy.vercel.app/?username=hdnwilson" alt="hdnwilson" /></a> </p>
-
-- 🔭 Je travaille actuellement sur [PayBack](https://pay-back-zeta.vercel.app/)
+- 🔭 Je travaille actuellement sur <a href="https://pay-back-zeta.vercel.app/">[PayBack]</a>
 
 - 🌱 J'apprends actuellement **du node.js et d'autres langages backend.**
 
-- 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante [https://www.hwilson.tech](https://www.hwilson. tech)
+- 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante <a href="https://www.hwilson. tech">hwilson</a>
 
 - 📫 Commentez moi joindre **wilsonhdndev@gmail.com**
 
