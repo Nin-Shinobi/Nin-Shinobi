@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Moi c'est Wilson Hdn</h1>
+<h1 align="center">Bonjour 👋, moi c'est Wilson Hdn</h1>
 <h3 align="center">Un développeur frontend et backend passionné.</h3>
 
 
