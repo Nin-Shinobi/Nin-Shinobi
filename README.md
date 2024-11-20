@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #ff3d3d;">Bonjour 👋, moi c'est Wilson Hdn</h1>
 <p align="center">
-  <img src="https://github.com/HdnWilson/HdnWilson/blob/main/the%20Future.png" alt="Wilson Hdn" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="https://github.com/HdnWilson/HdnWilson/blob/main/the%20Future.png" alt="Wilson Hdn" style="border-radius: 50%;"/>
 </p>
 <h3 align="" style="color: #d4af37;">Un développeur passionné, spécialisé en frontend et backend.</h3>
 
