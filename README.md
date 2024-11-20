@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #ff3d3d;">Bonjour 👋, moi c'est Wilson Hdn</h1>
-<h3 align="center" style="color: #d4af37;">Un développeur passionné, spécialisé en frontend et backend.</h3>
+<h3 align="" style="color: #d4af37;">Un développeur passionné, spécialisé en frontend et backend.</h3>
 
 - 🔭 **Actuellement :** Je travaille sur [PayBack](https://pay-back-zeta.vercel.app/)
 - 🌱 **En apprentissage :** Node.js et d'autres langages backend
