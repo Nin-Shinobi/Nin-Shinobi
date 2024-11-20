@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/HdnWilson/ai-assistant-electron/blob/main/THE-FUTURE.png" alt="Wilson Hdn"/>
 </p>
-<h1 align="center" style="color: #ff3d3d;">Wilson Hdn👨🏾‍💻👌🏾</h1>
+<h1 align="center" style="color: #ff3d3d;">Wilson Hdn👨🏾‍💻</h1>
 <h3 align="" style="color: #d4af37;">Développeur passionné, spécialisé en frontend et backend.</h3>
 
 - 🔭 **Actuellement :** Je travaille sur [PayBack](https://pay-back-zeta.vercel.app/)
