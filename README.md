@@ -10,6 +10,8 @@
 - 📫 **Contact :** wilsonhdndev@gmail.com
 - ⚡ **Fun fact :** Otaku & Gamer de la tête aux pieds 🥷😁
 
+---
+
 <h3 align="left" style="color: #ff3d3d;">Langues et outils :</h3>
 <p align="left"> 
   <!-- Langages principaux -->
@@ -49,9 +51,13 @@
   </a>
 </p>
 
+---
+
 <p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdnwilson&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
 </p>
+
+---
 
 <h3 align="left" style="color: #ff3d3d;">Connectez-moi :</h3>
 <p align="left">
