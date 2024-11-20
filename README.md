@@ -50,7 +50,7 @@
 
 ---
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdnwilson&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
 </p>
 
