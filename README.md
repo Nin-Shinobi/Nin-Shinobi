@@ -15,7 +15,7 @@
 <h3 align="left" style="color: #ff3d3d;">Langues et outils :</h3>
 <p align="left"> 
   <!-- Langages principaux -->
-  <a href="https://www.w3.org/html/" target="blank">
+  <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank">
