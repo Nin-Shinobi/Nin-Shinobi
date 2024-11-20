@@ -9,15 +9,6 @@
 
 ---
 
-<h3 align="left" style="color: #ff3d3d;">Connectez-vous avec moi :</h3>
-<p align="left">
-  <a href="mailto:wilsonhdndev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
 <h3 align="left" style="color: #ff3d3d;">Langues et outils :</h3>
 <p align="left"> 
   <!-- Langages principaux -->
@@ -59,16 +50,15 @@
 
 ---
 
-<h3 align="left" style="color: #ff3d3d;">Soutenez-moi :</h3>
-<p> 
-  <a href="https://www.buymeacoffee.com/WilsonHdn" target="_blank"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Achetez-moi un café"/>
-  </a> 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdnwilson&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
 </p>
-<br><br>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdnwilson&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
+<h3 align="left" style="color: #ff3d3d;">Connectez-vous avec moi :</h3>
+<p align="left">
+  <a href="mailto:wilsonhdndev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
