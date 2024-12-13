@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://github.com/HdnWilson/ai-assistant-electron/blob/main/THE-FUTURE.png" alt="Wilson Hdn"/>
 </p>
-<h1 align="center" style="color: #ff3d3d;">Wilson Hdn👨🏾‍💻</h1>
+<h1 align="center" style="color: #ff3d3d;">𝕹𝖎𝖓_𝕾𝖍𝖎𝖓𝖔𝖇𝖎🥷🏾</h1>
 <h3 align="" style="color: #d4af37;">Développeur passionné, spécialisé en frontend et backend.</h3>
 
 - 🔭 **Actuellement :** Je travaille sur [PayBack](https://pay-back-zeta.vercel.app/)
 - 🌱 **En apprentissage :** Node.js et d'autres langages backend
 - 👨‍💻 **Projets :** Découvrez tous mes travaux sur [hwilson.tech](https://www.hwilson.tech)
-- 📫 **Contact :** wilsonhdndev@gmail.com
+- 📫 **Contact :** ninshinobi11@gmail.com
 - ⚡ **Fun fact :** Otaku & Gamer de la tête aux pieds 🥷😁
 
 ---
@@ -61,7 +61,7 @@
 
 <h3 align="left" style="color: #ff3d3d;">Connectez-moi :</h3>
 <p align="left">
-  <a href="mailto:wilsonhdndev@gmail.com" target="_blank">
+  <a href="mailto:ninshinobi11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
