@@ -54,7 +54,7 @@
 ---
 
 <p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nin-Shinobi&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nin-shinobi&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
 </p>
 
 ---
