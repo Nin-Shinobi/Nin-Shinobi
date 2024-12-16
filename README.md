@@ -53,12 +53,6 @@
 
 ---
 
-<p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nin-shinobi&theme=dark&ring=ff3d3d&fire=d4af37&currStreakLabel=ff3d3d" alt="GitHub Streak Stats"/>
-</p>
-
----
-
 <h3 align="left" style="color: #ff3d3d;">Connectez-moi :</h3>
 <p align="left">
   <a href="mailto:ninshinobi11@gmail.com" target="_blank">
