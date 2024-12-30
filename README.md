@@ -61,4 +61,7 @@
   <a href="https://buymeacoffee.com/nin_shinobi" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
+  <a href="https://t.me/Nin_Shinobi" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </p>
