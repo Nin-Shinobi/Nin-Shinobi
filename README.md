@@ -2,33 +2,33 @@
   <img src="https://github.com/Nin-Shinobi/Nin-Shinobi/blob/main/THE-FUTURE.png" alt="Nin-Shinobi"/>
 </p>
 <h1 align="center" style="color: #ff3d3d;">𝕹𝖎𝖓_𝕾𝖍𝖎𝖓𝖔𝖇𝖎🥷🏾</h1>
-<h3 align="" style="color: #d4af37;">Développeur passionné, spécialisé en frontend et backend.</h3>
+<h3 align="center" style="color: #d4af37;">Passionate developer, specialized in frontend and backend.</h3>
 
-- 🔭 **Actuellement :** Je travaille sur [PayBack](https://pay-back-zeta.vercel.app/)
-- 🌱 **En apprentissage :** Node.js et d'autres langages backend
-- 👨‍💻 **Projets :** Découvrez tous mes travaux sur [hwilson.tech](https://www.hwilson.tech)
-- 📫 **Contact :** ninshinobi11@gmail.com
-- ⚡ **Fun fact :** Otaku & Gamer de la tête aux pieds 🥷😁
+- 🔭 **Currently Working On:** [PayBack](https://pay-back-zeta.vercel.app/)  
+- 🌱 **Learning:** Node.js and other backend languages  
+- 👨‍💻 **Projects:** Discover all my work at [hwilson.tech](https://www.hwilson.tech)  
+- 📫 **Contact:** ninshinobi11@gmail.com  
+- ⚡ **Fun Fact:** Full-time Otaku & Gamer 🥷😁  
 
 ---
 
-<h3 align="left" style="color: #ff3d3d;">Langues et outils :</h3>
+<h3 align="left" style="color: #ff3d3d;">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Langages principaux -->
+  <!-- Main Languages -->
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a> 
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
 
-  <!-- Frameworks et bibliothèques -->
+  <!-- Frameworks and Libraries -->
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 
-  <!-- Outils -->
+  <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -53,7 +53,7 @@
 
 ---
 
-<h3 align="left" style="color: #ff3d3d;">Contactez-moi :</h3>
+<h3 align="left" style="color: #ff3d3d;">Contact Me:</h3>
 <p align="left">
   <a href="mailto:ninshinobi11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
