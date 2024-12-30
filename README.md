@@ -64,4 +64,7 @@
   <a href="https://t.me/Nin_Shinobi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  <a href="https://discordapp.com/users/nin_shinobi" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
