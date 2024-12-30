@@ -58,4 +58,7 @@
   <a href="mailto:ninshinobi11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://buymeacoffee.com/nin_shinobi" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
 </p>
