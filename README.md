@@ -33,18 +33,6 @@ When I’m not coding, I’m either gaming or watching anime!
 
 ---
 
-### 📌 Pinned Projects:  
-<p align="left">
-  <a href="https://github.com/Nin-Shinobi/PayBack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nin-Shinobi&repo=PayBack&theme=radical" />
-  </a>
-  <a href="https://github.com/Nin-Shinobi/another-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nin-Shinobi&repo=another-project&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Current Stack:  
 🛠️ **Frontend:** React, Next.js, Vue.js  
 ⚙️ **Backend:** Node.js, Express, Laravel  
@@ -92,9 +80,6 @@ When I’m not coding, I’m either gaming or watching anime!
   <a href="mailto:ninshinobi11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://buymeacoffee.com/nin_shinobi" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
   <a href="https://t.me/nin_shinobi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -102,13 +87,6 @@ When I’m not coding, I’m either gaming or watching anime!
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
-
----
-
-### 📰 Daily.dev Card:  
-<a href="https://app.daily.dev/nin_shinobi">
-  <img src="https://api.daily.dev/devcards/fc12345.svg" width="300" alt="Nin Shinobi's Dev Card"/>
-</a>
 
 ---
 
