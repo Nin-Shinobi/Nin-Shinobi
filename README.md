@@ -75,18 +75,17 @@ When I’m not coding, I’m either gaming or watching anime!
 
 ---
 
-### 🔧 Vous avez un projet numérique ou un souci technique ? Parlons-en. 
+### 🔧 Do you have a digital project or a technical problem? Let's talk about it. 
 <p align="left">
-  🌟 Bénéficiez d’une consultation personnalisée avec un expert du digital 💡 pour vous aider à structurer votre idée, débloquer un problème technique ou optimiser votre présence en ligne.
+  🌟 Benefit from a personalized consultation with a digital expert 💡 to help you structure your idea, resolve a technical problem or optimize your online presence.
 
-  🚀 Que ce soit pour un site web, une application, une automatisation, un design ou une stratégie, vous repartez avec des solutions claires, adaptées et concrètes.
+  🚀 Whether for a website, an application, automation, design or strategy, you leave with clear, adapted and concrete solutions.
 
-  🎯 Donnez à votre projet les bases solides qu’il mérite — commençons par une vraie conversation : 
+  🎯 Give your project the solid foundation it deserves — let’s start with a real conversation: 
   <a href="https://hscpjgcv.mychariow.com/prd_7rpfut" target="_blank">
-    Prenez un rendez-vous pour discuter de votre projet.
+    Make an appointment to discuss your project.
   </a>
 </p>
-
 ---
 
 ### 📬 Contact Me:  
