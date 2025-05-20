@@ -81,7 +81,7 @@ When I’m not coding, I’m either gaming or watching anime!
 
   🚀 Que ce soit pour un site web, une application, une automatisation, un design ou une stratégie, vous repartez avec des solutions claires, adaptées et concrètes.
 
-  🎯 Donnez à votre projet les bases solides qu’il mérite — commençons par une vraie conversation.
+  🎯 Donnez à votre projet les bases solides qu’il mérite — commençons par une vraie conversation : 
   <a href="https://hscpjgcv.mychariow.com/prd_7rpfut" target="_blank">
     Prenez un rendez-vous pour discuter de votre projet.
   </a>
