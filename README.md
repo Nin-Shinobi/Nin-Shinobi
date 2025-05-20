@@ -75,6 +75,20 @@ When I’m not coding, I’m either gaming or watching anime!
 
 ---
 
+### 🔧 Vous avez un projet numérique ou un souci technique ? Parlons-en. 
+<p align="left">
+  🌟 Bénéficiez d’une consultation personnalisée avec un expert du digital 💡 pour vous aider à structurer votre idée, débloquer un problème technique ou optimiser votre présence en ligne.
+
+  🚀 Que ce soit pour un site web, une application, une automatisation, un design ou une stratégie, vous repartez avec des solutions claires, adaptées et concrètes.
+
+  🎯 Donnez à votre projet les bases solides qu’il mérite — commençons par une vraie conversation.
+  <a href="https://hscpjgcv.mychariow.com/prd_7rpfut" target="_blank">
+    Prenez un rendez-vous pour discuter de votre projet.
+  </a>
+</p>
+
+---
+
 ### 📬 Contact Me:  
 <p align="left">
   <a href="mailto:ninshinobi11@gmail.com" target="_blank">
