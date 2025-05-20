@@ -86,6 +86,7 @@ When I’m not coding, I’m either gaming or watching anime!
     Make an appointment to discuss your project.
   </a>
 </p>
+
 ---
 
 ### 📬 Contact Me:  
