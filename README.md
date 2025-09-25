@@ -14,9 +14,8 @@
 ---
 
 ### 🔹 À propos de moi :  
-Je suis un développeur passionné qui adore créer des applications web et résoudre des problèmes grâce au code.  
-Je suis spécialisé en développement frontend et backend, et j’apprends en permanence de nouvelles technologies.  
-Quand je ne code pas, je joue aux jeux vidéo ou je regarde des animes !  
+Architecte du web 🌐, je conçois des applications modernes 🚀 et performantes ⚙️ en mêlant design 🎨, stratégie 📊 et code 💻. 
+Toujours en veille technologique 🔍, je transforme les projets ambitieux 💡 en réussites concrètes 🏆.
 
 ---
 
