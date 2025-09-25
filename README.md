@@ -98,7 +98,7 @@ When I’m not coding, I’m either gaming or watching anime!
   <a href="https://t.me/nin_shinobi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.gg/_.asborn." target="_blank">
+  <a href="https://discord.gg/XmVsV7VhCB" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
