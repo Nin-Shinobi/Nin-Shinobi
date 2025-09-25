@@ -75,7 +75,7 @@ When I’m not coding, I’m either gaming or watching anime!
 
 ---
 
-### 🔧 Do you have a digital project or a technical problem? Let's talk about it. 
+<!--  ### 🔧 Do you have a digital project or a technical problem? Let's talk about it. 
 <p align="left">
   🌟 Benefit from a personalized consultation with a digital expert 💡 to help you structure your idea, resolve a technical problem or optimize your online presence.
 
@@ -88,6 +88,7 @@ When I’m not coding, I’m either gaming or watching anime!
 </p>
 
 ---
+-->
 
 ### 📬 Contact Me:  
 <p align="left">
